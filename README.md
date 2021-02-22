@@ -1,1 +1,2 @@
-[音乐]: (http://gougebiegou42.github.io/music/)
+[音乐]: https://gougebiegou42.github.io/music/
+
