@@ -1,0 +1,60 @@
+{
+	"male": [{
+			"id": "54d42d92321052167dfb75e3",
+			"title":"热门小说"
+		},
+		{
+			"id":"5a6844aafc84c2b8efaa6b6e",
+			"title":"好评榜"
+		},
+		{
+			"id":"5a6844f8fc84c2b8efaa8bc5",
+			"title":"热搜榜"
+		},
+		{
+			"id":"54d42e72d9de23382e6877fb",
+			"title":"潜力榜"
+		},
+		{
+			"id":"564547c694f1c6a144ec979b",
+			"title":"留存榜"
+		},
+		{
+			"id":"564eb878efe5b8e745508fde",
+			"title":"畅销完本"
+		},
+		{
+			"id":"57eb86f0ef9e5a8f20543d7d",
+			"title":"VIP"
+		}
+	],
+	"female": [{
+			"id": "54d43437d47d13ff21cad58b",
+			"title":"热门小说"
+		},
+		{
+			"id":"5a684551fc84c2b8efaab179",
+			"title":"好评榜"
+		},
+		{
+			"id":"5a684515fc84c2b8efaa9875",
+			"title":"热搜榜"
+		},
+		{
+			"id":"54d43709fd6ec9ae04184aa5",
+			"title":"潜力榜"
+		},
+		{
+			"id":"5645482405b052fe70aeb1b5",
+			"title":"留存榜"
+		},
+		{
+			"id":"564eb8a9cf77e9b25056162d",
+			"title":"畅销完本"
+		},
+		{
+			"id":"57eb959df60eb7e21fb3a8b7",
+			"title":"VIP"
+		}
+	]
+}
